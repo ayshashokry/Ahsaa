@@ -7,6 +7,7 @@
     "@deskpro/react-datepicker-hijri": "^1.5.1",
     "@esri/arcgis-rest-auth": "^3.0.0",
     "@esri/arcgis-rest-request": "^3.0.0",
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
